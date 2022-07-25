@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "PAGE TITLE"
-permalink: /docs/
+permalink: /about/
 ---
 Test
