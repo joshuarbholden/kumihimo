@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+    <title>Your awesome title | Write an awesome description for your
+      new site here. You can edit this line in _config.yml. It will
+      appear in your document head meta (for Google search results) and
+      in your feed.xml site description.</title>
+    <meta name="generator" content="Jekyll v3.9.2">
+    <meta property="og:title" content="Your awesome title">
+    <meta property="og:locale" content="en_US">
+    <meta name="description" content="Write an awesome description for
+      your new site here. You can edit this line in _config.yml. It will
+      appear in your document head meta (for Google search results) and
+      in your feed.xml site description.">
+    <meta property="og:description" content="Write an awesome
+      description for your new site here. You can edit this line in
+      _config.yml. It will appear in your document head meta (for Google
+      search results) and in your feed.xml site description.">
+    <link rel="canonical"
+      href="http://joshuarbholden.github.io/kumihimo/inventory.html">
+    <meta property="og:url"
+      content="http://joshuarbholden.github.io/kumihimo/inventory.html">
+    <meta property="og:site_name" content="Your awesome title">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary">
+    <meta property="twitter:title" content="Your awesome title">
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","headline":"Your awesome title","url":"http://joshuarbholden.github.io/kumihimo/inventory.html"}</script>
+    <!-- End Jekyll SEO tag -->
+    <!-- link rel="stylesheet"
+href="/kumihimo/assets/css/style.css?v=cd2b32c85e1e90324343505b92d579880afc3f6b"-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+    <!-- Setup Google Analytics -->
+    <!-- You can set your favicon here -->
+    <!-- link rel="shortcut icon" type="image/x-icon" href="/kumihimo/favicon.ico" -->
+    <!-- end custom head snippets -->
+    <!--- <style--> table { transform: scale(0.5); } --&gt;
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <h1><a href="http://joshuarbholden.github.io/kumihimo/">The 406
+          Naiki patterns</a></h1>
+      <p>explanation ***</p>
+      <p>Table 2: Inventory of patterns given by the Monster Theorem</p>
+      <table>
+        <thead> <tr>
+            <th style="text-align: center">&nbsp;</th>
+            <th style="text-align: center">&nbsp;</th>
+            <th style="text-align: center">&nbsp;</th>
+            <th style="text-align: center"><strong>even</strong></th>
+            <th style="text-align: center"><strong>thread</strong></th>
+            <th style="text-align: center"><strong>spots</strong></th>
+            <th style="text-align: center">&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+        </thead> <tbody>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>0</strong></td>
+            <td style="text-align: center"><strong>4</strong></td>
+            <td style="text-align: center"><strong>8</strong></td>
+            <td style="text-align: center"><strong>12</strong></td>
+            <td style="text-align: center"><strong>16</strong></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>0</strong></td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>4</strong></td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>8</strong></td>
+            <td style="text-align: center">4</td>
+            <td style="text-align: center">6</td>
+            <td style="text-align: center">12</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center"><strong>odd</strong></td>
+            <td style="text-align: center"><strong>12</strong></td>
+            <td style="text-align: center">5</td>
+            <td style="text-align: center">10</td>
+            <td style="text-align: center">34</td>
+            <td style="text-align: center">29</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center"><strong>thread</strong></td>
+            <td style="text-align: center"><strong>16</strong></td>
+            <td style="text-align: center">8</td>
+            <td style="text-align: center">13</td>
+            <td style="text-align: center">52</td>
+            <td style="text-align: center">79</td>
+            <td style="text-align: center">48</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center"><strong>spots</strong></td>
+            <td style="text-align: center"><strong>20</strong></td>
+            <td style="text-align: center">5</td>
+            <td style="text-align: center">10</td>
+            <td style="text-align: center">34</td>
+            <td style="text-align: center">29</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>24</strong></td>
+            <td style="text-align: center">4</td>
+            <td style="text-align: center">6</td>
+            <td style="text-align: center">12</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>28</strong></td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>32</strong></td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody>
+      </table>
+      <table border="1" cellpadding="0">
+        <thead> <tr>
+            <td valign="top"><br>
+            </td>
+            <th style="text-align: center">&nbsp;</th>
+            <th style="text-align: left">&nbsp;</th>
+            <th style="text-align: left"><strong></strong><br>
+            </th>
+            <th style="text-align: center" align="center"><strong><strong>even
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                </strong>thread </strong><strong><strong>spots</strong></strong></th>
+            <th style="text-align: left"><strong></strong><br>
+            </th>
+            <th style="text-align: left">&nbsp;</th>
+          </tr>
+        </thead> <tbody>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>0</strong></td>
+            <td style="text-align: center"><strong>4</strong></td>
+            <td style="text-align: center" align="center"><strong>8</strong></td>
+            <td style="text-align: center"><strong>12</strong></td>
+            <td style="text-align: center"><strong>16</strong></td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center"><strong>0</strong></td>
+            <td style="text-align: left">1</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center"><strong>4</strong></td>
+            <td style="text-align: left">1</td>
+            <td style="text-align: left"><img srcset="4plus4spots.svg
+                100w" sizes="50px" src="4plus4spots.svg"
+                alt="4plus4spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+              Shift evens (always mirror) unless odd have glide
+              reflection</td>
+            <td valign="top"><br>
+              Swap takes the place of shift, unless glide/mirror
+              combination produces reflection</td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center"><strong>8</strong></td>
+            <td style="text-align: left">4</td>
+            <td style="text-align: left"><img src="8plus4spots.svg"
+                srcset="8plus4spots.svg 100w" sizes="50px"
+                alt="8plus4spots"></td>
+            <td style="text-align: left"><img src="8plus4spots.svg"
+                srcset="8plus8spots.svg 100w" sizes="50px"
+                alt="8plus8spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+              Shift unless odds have mirror and evens have glide</td>
+            <td valign="top"><br>
+              Swap takes the place of shift. If odd has no symmetry,
+              also need to use reverse of even.<br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center"><strong>12</strong></td>
+            <td style="text-align: left">5</td>
+            <td style="text-align: left"><img src="12plus4spots.svg"
+                srcset="12plus4spots.svg 100w" sizes="50px"
+                alt="12plus4spots"></td>
+            <td style="text-align: left"><img src="12plus8spots.svg"
+                srcset="12plus8spots.svg 100w" sizes="50px"
+                alt="12plus8spots"></td>
+            <td style="text-align: left"><img src="12plus12spots.svg"
+                srcset="12plus12spots.svg 100w" sizes="50px"
+                alt="12plus12spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+              <br>
+            </td>
+            <td valign="top"><br>
+              Shift unless one parity has mirror and the other parity
+              has glide<br>
+            </td>
+            <td valign="top">&nbsp;<br>
+              Shift unless one parity has mirror and the other parity
+              has glide.&nbsp; If odd has no symmetry, also need to use
+              reverse of even.<br>
+            </td>
+            <td valign="top"><br>
+              Swap takes the place of shift, unless glide/mirror
+              combination produces reflection. If odd has no symmetry,
+              also need to use reverse of even. Also, two bracelets
+              which are colorchanges of each other are redundant except
+              for one case.</td>
+          </tr>
+          <tr>
+            <td valign="middle" align="center"><b>odd</b><b><br>
+              </b><b>thread</b><b><br>
+              </b>
+              <div><b>spots</b><b><br>
+                </b></div>
+            </td>
+            <td style="text-align: center"><strong>16</strong></td>
+            <td style="text-align: left">8</td>
+            <td style="text-align: left"><img src="16plus4spots.svg"
+                alt="16plus4spots"></td>
+            <td style="text-align: left"><img src="16plus8spots.svg"
+                alt="16plus8spots"> </td>
+            <td style="text-align: left"><img src="16plus12spots.svg"
+                alt="16plus12spots"></td>
+            <td style="text-align: left"><img src="16plus16spots.svg"
+                alt="16plus16spots"> </td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+              <br>
+            </td>
+            <td valign="top"><br>
+              <br>
+            </td>
+            <td valign="top"><br>
+              Swap takes the place of shift. If odd has no symmetry,
+              also need to use reverse of even.<br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center"><strong>20</strong></td>
+            <td style="text-align: left">5</td>
+            <td style="text-align: left"><img src="20plus4spots.svg"
+                alt="20plus4spots"></td>
+            <td style="text-align: left"><img src="20plus8spots.svg"
+                alt="20plus8spots"></td>
+            <td style="text-align: left"><img moz-do-not-send="true"
+                src="20plus12spots.svg" alt="20 plus 12 spots"
+                width="1344" height="960"><br>
+            </td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+              <br>
+            </td>
+            <td valign="top"><br>
+              Swap takes the place of shift, unless symmetries produce
+              mirror image<br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center"><strong>24</strong></td>
+            <td style="text-align: left">4</td>
+            <td style="text-align: left"><img src="24plus4spots.svg"
+                alt="24plus4spots"></td>
+            <td style="text-align: left"><img src="24plus8spots.svg"
+                alt="24plus8spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+              <br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center"><strong>28</strong></td>
+            <td style="text-align: left">1</td>
+            <td style="text-align: left"><img src="28plus4spots.svg"
+                alt="28plus4spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            </td>
+            <td style="text-align: center"><strong>32</strong></td>
+            <td style="text-align: left">1</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
