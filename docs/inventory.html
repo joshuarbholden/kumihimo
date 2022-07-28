@@ -44,7 +44,19 @@ href="/kumihimo/assets/css/style.css?v=cd2b32c85e1e90324343505b92d579880afc3f6b"
     <div class="container-lg px-3 my-5 markdown-body">
       <h1><a href="http://joshuarbholden.github.io/kumihimo/">The 406
           Naiki patterns</a></h1>
-      <p>explanation ***</p>
+<p>explanation ***</p>
+
+
+<p>
+Our ***paper*** counts the number of two-color Naiki braid patterns
+with equivalence given by rotation around the axis, translation along
+the axis, 180&deg; rotation perpendicular to the axis, glide plane
+reflection parallel to the axis, and exchange of colors.  Table 2 from
+the ***paper***, reproduced below, divides these according to how many
+even-numbered threads were of each color and how many odd-numbered
+threads had each color. 
+
+
       <p>Table 2: Inventory of patterns given by the Monster Theorem</p>
       <table>
         <thead> <tr>
@@ -161,6 +173,32 @@ href="/kumihimo/assets/css/style.css?v=cd2b32c85e1e90324343505b92d579880afc3f6b"
         </tbody>
 </table>
 
+
+<p>
+Note that this triangular table should really be regarded as a quarter
+of a square table, "folded" by equivalence relations.  For example,
+the braids with more even spots than odd spots can be obtained by
+glide plane reflecting the braids in the table.  Similarly, the braids
+with more than 32 spots total can be obtained by exchanging colors of
+the braids in the table and their glide plane reflections.
+
+
+<p>
+
+In order to make a complete list of the patterns in Table 2, we start
+by considering the odd threads and the even threads separately.  We
+start by representing each set of 8 threads with a binary "bracelet"
+of length 8.  A bracelet is a string of digits, with two bracelets
+considered equivalent if one can be transformed into the other by
+cyclic shifts and/or mirror images.  The complete list of such
+bracelets can be obtained from, for example, the Combinatorial Object
+Server. ***link***  Each 1 in the bracelet will represent a thread
+which produces 4 spots in the pattern.
+A Naiki pattern with 4<em>m</em> odd spots and 4<em>n</em> even spots
+can be produced by combining a bracelet with <em>m</em> 1's and a
+bracelet with <em>n</em> 1's.  There are, however, some subtleties.
+<p>
+*****
 <P>
 Table 2A:  Diagrams of all of the patterns from the table above
       <table border="1" cellpadding="0">
