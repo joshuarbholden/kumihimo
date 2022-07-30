@@ -1,454 +1,487 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Begin Jekyll SEO tag v2.8.0 -->
-    <title>Your awesome title | Write an awesome description for your
-      new site here. You can edit this line in _config.yml. It will
-      appear in your document head meta (for Google search results) and
-      in your feed.xml site description.</title>
-    <meta name="generator" content="Jekyll v3.9.2">
-    <meta property="og:title" content="Your awesome title">
-    <meta property="og:locale" content="en_US">
-    <meta name="description" content="Write an awesome description for
-      your new site here. You can edit this line in _config.yml. It will
-      appear in your document head meta (for Google search results) and
-      in your feed.xml site description.">
-    <meta property="og:description" content="Write an awesome
-      description for your new site here. You can edit this line in
-      _config.yml. It will appear in your document head meta (for Google
-      search results) and in your feed.xml site description.">
-    <link rel="canonical"
-      href="http://joshuarbholden.github.io/kumihimo/inventory.html">
-    <meta property="og:url"
-      content="http://joshuarbholden.github.io/kumihimo/inventory.html">
-    <meta property="og:site_name" content="Your awesome title">
-    <meta property="og:type" content="website">
-    <meta name="twitter:card" content="summary">
-    <meta property="twitter:title" content="Your awesome title">
-    <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","headline":"Your awesome title","url":"http://joshuarbholden.github.io/kumihimo/inventory.html"}</script>
-    <!-- End Jekyll SEO tag -->
-    <!-- link rel="stylesheet"
-href="/kumihimo/assets/css/style.css?v=cd2b32c85e1e90324343505b92d579880afc3f6b"-->
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-    <!-- Setup Google Analytics -->
-    <!-- You can set your favicon here -->
-    <!-- link rel="shortcut icon" type="image/x-icon" href="/kumihimo/favicon.ico" -->
-    <!-- end custom head snippets -->
-    <!--- <style--> table { transform: scale(0.5); } --&gt;
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <h1><a href="http://joshuarbholden.github.io/kumihimo/">The 406
-          Naiki patterns</a></h1>
-      <p>explanation ***</p>
-      <p>Table 2: Inventory of patterns given by the Monster Theorem</p>
-      <table>
-        <thead> <tr>
-            <th style="text-align: center">&nbsp;</th>
-            <th style="text-align: center">&nbsp;</th>
-            <th style="text-align: center">&nbsp;</th>
-            <th style="text-align: center"><strong>even</strong></th>
-            <th style="text-align: center"><strong>thread</strong></th>
-            <th style="text-align: center"><strong>spots</strong></th>
-            <th style="text-align: center">&nbsp;</th>
-            <th>&nbsp;</th>
-          </tr>
-        </thead> <tbody>
-          <tr>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center"><strong>0</strong></td>
-            <td style="text-align: center"><strong>4</strong></td>
-            <td style="text-align: center"><strong>8</strong></td>
-            <td style="text-align: center"><strong>12</strong></td>
-            <td style="text-align: center"><strong>16</strong></td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center"><strong>0</strong></td>
-            <td style="text-align: center">1</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center"><strong>4</strong></td>
-            <td style="text-align: center">1</td>
-            <td style="text-align: center">1</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center"><strong>8</strong></td>
-            <td style="text-align: center">4</td>
-            <td style="text-align: center">6</td>
-            <td style="text-align: center">12</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center"><strong>odd</strong></td>
-            <td style="text-align: center"><strong>12</strong></td>
-            <td style="text-align: center">5</td>
-            <td style="text-align: center">10</td>
-            <td style="text-align: center">34</td>
-            <td style="text-align: center">29</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center"><strong>thread</strong></td>
-            <td style="text-align: center"><strong>16</strong></td>
-            <td style="text-align: center">8</td>
-            <td style="text-align: center">13</td>
-            <td style="text-align: center">52</td>
-            <td style="text-align: center">79</td>
-            <td style="text-align: center">48</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center"><strong>spots</strong></td>
-            <td style="text-align: center"><strong>20</strong></td>
-            <td style="text-align: center">5</td>
-            <td style="text-align: center">10</td>
-            <td style="text-align: center">34</td>
-            <td style="text-align: center">29</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center"><strong>24</strong></td>
-            <td style="text-align: center">4</td>
-            <td style="text-align: center">6</td>
-            <td style="text-align: center">12</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center"><strong>28</strong></td>
-            <td style="text-align: center">1</td>
-            <td style="text-align: center">1</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center"><strong>32</strong></td>
-            <td style="text-align: center">1</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center">&nbsp;</td>
-            <td>&nbsp;</td>
-          </tr>
-        </tbody>
-      </table>
-      <table border="1" cellpadding="0">
-        <thead> <tr>
-            <td valign="top"><br>
-            </td>
-            <th style="text-align: center">&nbsp;</th>
-            <th style="text-align: left">&nbsp;</th>
-            <th style="text-align: left"><strong></strong><br>
-            </th>
-            <th style="text-align: center" align="center"><strong><strong>even
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+    <title>The 406 Naiki Patterns</title>
+    <meta name="generator" content="Jekyll v3.9.2">
+    <meta property="og:title" content="The 406 Naiki Patterns">
+    <meta property="og:locale" content="en_US">
+    <meta name="description" content="A supplement to Monsters in the Hollow:  Counting Naiki braid patterns using de Bruijn's Monster Theorem">
+    <meta property="og:description" content="A supplement to Monsters in the Hollow:  Counting Naiki braid patterns using de Bruijn's Monster Theorem">
+    <link rel="canonical"
+      href="http://joshuarbholden.github.io/kumihimo/inventory.html">
+    <meta property="og:url"
+      content="http://joshuarbholden.github.io/kumihimo/inventory.html">
+    <meta property="og:site_name" content="The 406 Naiki Patterns">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary">
+    <meta property="twitter:title" content="The 406 Naiki Patterns">
+    <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"WA supplement to Monsters in the Hollow:  Counting Naiki braid patterns using de Bruijn's Monster Theorem","headline":"The 406 Naiki Patterns","url":"http://joshuarbholden.github.io/kumihimo/inventory.html"}</script>
+    <!-- End Jekyll SEO tag -->
+    <!-- link rel="stylesheet"
+href="/kumihimo/assets/css/style.css?v=cd2b32c85e1e90324343505b92d579880afc3f6b"-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+    <!-- Setup Google Analytics -->
+    <!-- You can set your favicon here -->
+    <!-- link rel="shortcut icon" type="image/x-icon" href="/kumihimo/favicon.ico" -->
+    <!-- end custom head snippets -->
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <h1>The 406
+          Naiki patterns</h1>
+
+      <h2>A supplement to Monsters in the Hollow:  Counting Naiki braid patterns using de Bruijn's Monster Theorem ***link*** </h2>
 
 
+<p>
+***Monsters in the Hollow*** counts the number of two-color Naiki braid patterns
+with equivalence given by rotation around the axis, translation along
+the axis, 180&deg; rotation perpendicular to the axis, glide plane
+reflection parallel to the axis, and exchange of colors.  Table 2 from
+the ***paper***, reproduced below, divides these according to how many
+even-numbered threads were of each color and how many odd-numbered
+threads had each color. 
 
 
+      <p>Table 2: Inventory of patterns given by the Monster Theorem</p>
+      <table>
+        <thead> <tr>
+            <th style="text-align: center">&nbsp;</th>
+            <th style="text-align: center">&nbsp;</th>
+            <th style="text-align: center">&nbsp;</th>
+            <th style="text-align: center"><strong>even</strong></th>
+            <th style="text-align: center"><strong>thread</strong></th>
+            <th style="text-align: center"><strong>spots</strong></th>
+            <th style="text-align: center">&nbsp;</th>
+            <th>&nbsp;</th>
+          </tr>
+        </thead> <tbody>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>0</strong></td>
+            <td style="text-align: center"><strong>4</strong></td>
+            <td style="text-align: center"><strong>8</strong></td>
+            <td style="text-align: center"><strong>12</strong></td>
+            <td style="text-align: center"><strong>16</strong></td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>0</strong></td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>4</strong></td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>8</strong></td>
+            <td style="text-align: center">4</td>
+            <td style="text-align: center">6</td>
+            <td style="text-align: center">12</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center"><strong>odd</strong></td>
+            <td style="text-align: center"><strong>12</strong></td>
+            <td style="text-align: center">5</td>
+            <td style="text-align: center">10</td>
+            <td style="text-align: center">34</td>
+            <td style="text-align: center">29</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center"><strong>thread</strong></td>
+            <td style="text-align: center"><strong>16</strong></td>
+            <td style="text-align: center">8</td>
+            <td style="text-align: center">13</td>
+            <td style="text-align: center">52</td>
+            <td style="text-align: center">79</td>
+            <td style="text-align: center">48</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center"><strong>spots</strong></td>
+            <td style="text-align: center"><strong>20</strong></td>
+            <td style="text-align: center">5</td>
+            <td style="text-align: center">10</td>
+            <td style="text-align: center">34</td>
+            <td style="text-align: center">29</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>24</strong></td>
+            <td style="text-align: center">4</td>
+            <td style="text-align: center">6</td>
+            <td style="text-align: center">12</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>28</strong></td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center"><strong>32</strong></td>
+            <td style="text-align: center">1</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td style="text-align: center">&nbsp;</td>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody>
+</table>
 
 
+<p>
+Note that this triangular table should really be regarded as a quarter
+of a square table, "folded" by equivalence relations.  For example,
+the braids with more even spots than odd spots can be obtained by
+glide plane reflecting the braids in the table.  Similarly, the braids
+with more than 32 spots total can be obtained by exchanging colors of
+the braids in the table and their glide plane reflections.
 
 
+<p>
 
+In order to make a complete list of the patterns in Table 2, we start
+by considering the odd threads and the even threads separately.  We
+start by representing each set of 8 threads with a binary "bracelet"
+of length 8.  A bracelet is a string of digits, with two bracelets
+considered equivalent if one can be transformed into the other by
+cyclic shifts and/or mirror images.  The complete list of such
+bracelets can be obtained from, for example, the <a href="http://www.combos.org/necklace">Combinatorial Object
+Server</a>. Each 1 in the bracelet will represent a thread
+which produces 4 spots in the pattern.
+A Naiki pattern with 4<em>m</em> odd spots and 4<em>n</em> even spots
+can be produced by combining a bracelet with <em>m</em> 1's and a
+bracelet with <em>n</em> 1's.  There are, however, some subtleties
+induced by the symmetries of the bracelets interacting with the
+symmetries of the braid.
+<p>
+Firstly, note that the bracelets have the symmetry of the dihedral
+group, as noted in my paper on Kongo Gumi braids. ***link***  The full symmetry
+group includes cyclic shifts and mirror images.  In particular, the
+mirror images can have two fixed points or no fixed points.  A mirror
+with fixed points combined with a shift of 1 gives a mirror without
+fixed points, and vice versa.
+Looking at the symmetries of the braid in terms of the bracelets, we
+see that they are generated by the following:
+<ol>
+<li>a simultaneous cyclic shift of each bracelet by 1,
+<li>a cyclic shift of either bracelet individually by 2,
+<li>a simultaneous mirror image of both bracelets with no fixed
+points, and
+<li>swapping the two bracelets, following by a cyclic shift of
+either bracelet individually by 1.
+</ol>
+Also note that exchanging colors in the braid corresponds two
+simultaneously exchanging 0's and 1's in the two bracelets.
+<p>
+In order to generate all braids with 4<em>m</em> odd spots and
+4<em>n</em> even spots, we match each bracelet with <em>m</em> 1's
+("odd bracelet")
+with each bracelet with <em>n</em> 1's ("even bracelet"), with the
+following additions and exceptions: 
+<br>
+(For simplicity of the table, we will assume the
+additions are made to the even bracelets; this is
+an arbitrary choice.)
+<ol type="a">
+<li>Addition:  If <em>m</em> &ne; <em>n</em> and  <em>m</em> &ne; 8 - <em>n</em>,
+each even bracelet needs to be used in two different positions
+separated by a shift of 1, <strong>except</strong> in the cases where
+one bracelet has a mirror with fixed points and the other bracelet has
+a mirror without fixed points. In this case the two mirrors and the
+extra shift combine to give a symmetry of the braid, so the second
+position of the even bracelet does not produce a new braid.
+<LI>Exception:  If <em>m</em> = <em>n</em> or <em>m</em> = 8 - <em>n</em> , the shift is described in
+the previous point is not necessary, because swapping the two
+bracelets is equivalent to shifting one of them.  Since
+each bracelet is used as both an odd bracelet and an even bracelet (up
+to exchanging colors),
+every pair is swapped.  <strong>However,</strong> the above note
+about combining mirrors with and without fixed points still apply, so
+some combinations will not appear in the table.
+<li>Addition:  If an even bracelet with<strong> no mirrors</strong>
+is combined with an
+odd bracelet with<strong> no mirrors</strong>, the even bracelet has to be used in each
+of its mirror orientations.  In any other cases this is not necessary,
+since mirroring both bracelets produces a symmetry of the braid up to a
+possible shift of one, which is covered above.  If either bracelet has
+mirror symmetry, then mirroring the other will produce a braid
+equivalent to one already covered.
+<li>Exception:  If <em>m</em> = <em>n</em> = 8, some pairs of bracelets are
+equivalent up to exchanging colors, whereas some are equivalent to
+themselves.  When a bracelet equivalent to itself is combined with one
+which is not, then the color-changed version of the second bracelet
+does not have to be used, since exchanging the colors of both
+bracelets produces an equivalent braid.  In the particular case of
+bracelets with 8 0's and 8 1's, there is only one pair of bracelets
+which are not equivalent to themselves up to exchanging colors.
+Therefore one even bracelet may be omitted, and one odd bracelet will
+only appear where it is combined with its color-changed version.
+</ol>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-                </strong>thread </strong><strong><strong>spots</strong></strong></th>
-            <th style="text-align: left"><strong></strong><br>
-            </th>
-            <th style="text-align: left">&nbsp;</th>
-          </tr>
-        </thead> <tbody>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center">&nbsp;</td>
-            <td style="text-align: center"><strong>0</strong></td>
-            <td style="text-align: center"><strong>4</strong></td>
-            <td style="text-align: center" align="center"><strong>8</strong></td>
-            <td style="text-align: center"><strong>12</strong></td>
-            <td style="text-align: center"><strong>16</strong></td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center"><strong>0</strong></td>
-            <td style="text-align: left">1</td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center"><strong>4</strong></td>
-            <td style="text-align: left">1</td>
-            <td style="text-align: left"><img srcset="4plus4spots.svg
-                100w" sizes="50px" src="4plus4spots.svg"
-                alt="4plus4spots"></td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-              Shift evens (always mirror) unless odd have glide
-              reflection</td>
-            <td valign="top"><br>
-              Swap takes the place of shift, unless glide/mirror
-              combination produces reflection</td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center"><strong>8</strong></td>
-            <td style="text-align: left">4</td>
-            <td style="text-align: left"><img src="8plus4spots.svg"
-                srcset="8plus4spots.svg 100w" sizes="50px"
-                alt="8plus4spots"></td>
-            <td style="text-align: left"><img src="8plus4spots.svg"
-                srcset="8plus8spots.svg 100w" sizes="50px"
-                alt="8plus8spots"></td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-              Shift unless odds have mirror and evens have glide</td>
-            <td valign="top"><br>
-              Swap takes the place of shift. If odd has no symmetry,
-              also need to use reverse of even.<br>
-            </td>
-            <td valign="top"><br>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center"><strong>12</strong></td>
-            <td style="text-align: left">5</td>
-            <td style="text-align: left"><img src="12plus4spots.svg"
-                srcset="12plus4spots.svg 100w" sizes="50px"
-                alt="12plus4spots"></td>
-            <td style="text-align: left"><img src="12plus8spots.svg"
-                srcset="12plus8spots.svg 100w" sizes="50px"
-                alt="12plus8spots"></td>
-            <td style="text-align: left"><img src="12plus12spots.svg"
-                srcset="12plus12spots.svg 100w" sizes="50px"
-                alt="12plus12spots"></td>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-              <br>
-            </td>
-            <td valign="top"><br>
-              Shift unless one parity has mirror and the other parity
-              has glide<br>
-            </td>
-            <td valign="top">&nbsp;<br>
-              Shift unless one parity has mirror and the other parity
-              has glide.&nbsp; If odd has no symmetry, also need to use
-              reverse of even.<br>
-            </td>
-            <td valign="top"><br>
-              Swap takes the place of shift, unless glide/mirror
-              combination produces reflection. If odd has no symmetry,
-              also need to use reverse of even. Also, two bracelets
-              which are colorchanges of each other are redundant except
-              for one case.</td>
-          </tr>
-          <tr>
-            <td valign="middle" align="center"><b>odd</b><b><br>
-              </b><b>thread</b><b><br>
-              </b>
-              <div><b>spots</b><b><br>
-                </b></div>
-            </td>
-            <td style="text-align: center"><strong>16</strong></td>
-            <td style="text-align: left">8</td>
-            <td style="text-align: left"><img src="16plus4spots.svg"
-                alt="16plus4spots"></td>
-            <td style="text-align: left"><img src="16plus8spots.svg"
-                alt="16plus8spots"> </td>
-            <td style="text-align: left"><img src="16plus12spots.svg"
-                alt="16plus12spots"></td>
-            <td style="text-align: left"><img src="16plus16spots.svg"
-                alt="16plus16spots"> </td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-              <br>
-            </td>
-            <td valign="top"><br>
-              <br>
-            </td>
-            <td valign="top"><br>
-              Swap takes the place of shift. If odd has no symmetry,
-              also need to use reverse of even.<br>
-            </td>
-            <td valign="top"><br>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center"><strong>20</strong></td>
-            <td style="text-align: left">5</td>
-            <td style="text-align: left"><img src="20plus4spots.svg"
-                alt="20plus4spots"></td>
-            <td style="text-align: left"><img src="20plus8spots.svg"
-                alt="20plus8spots"></td>
-            <td style="text-align: left"><img moz-do-not-send="true"
-                src="20plus12spots.svg" alt="20 plus 12 spots"
-                width="1344" height="960"><br>
-            </td>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-              <br>
-            </td>
-            <td valign="top"><br>
-              Swap takes the place of shift, unless symmetries produce
-              mirror image<br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center"><strong>24</strong></td>
-            <td style="text-align: left">4</td>
-            <td style="text-align: left"><img src="24plus4spots.svg"
-                alt="24plus4spots"></td>
-            <td style="text-align: left"><img src="24plus8spots.svg"
-                alt="24plus8spots"></td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-              <br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-            <td valign="top"><br>
-            </td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center"><strong>28</strong></td>
-            <td style="text-align: left">1</td>
-            <td style="text-align: left"><img src="28plus4spots.svg"
-                alt="28plus4spots"></td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-          <tr>
-            <td valign="top"><br>
-            </td>
-            <td style="text-align: center"><strong>32</strong></td>
-            <td style="text-align: left">1</td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-            <td style="text-align: left">&nbsp;</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+These additions and exceptions are noted by letter in the table below.
+<P>
+Table 3:  Diagrams of all of the patterns from Table 2
+      <table border="1" cellpadding="0">
+<thead>
+        </thead> <tbody>
+          <tr>
+                <td style="text-align: center"><strong>0 odd, 0&nbsp;even:
+1&nbsp;pattern</strong></td>
+            <td style="text-align: center"><strong></strong></td>
+            <td style="text-align: center" align="center"><strong></strong></td>
+            <td style="text-align: center"><strong></strong></td>
+            <td style="text-align: center"><strong></strong></td>
+          </tr>
+          <tr>
+         <td style="text-align: left"><img srcset="0plus0spots.svg
+                100w" sizes="25px" src="0plus0spots.svg"
+                alt="0plus0spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+                <td style="text-align: center"><strong>4 odd, 0&nbsp;even:
+1&nbsp;pattern</strong></td>
+            <td style="text-align: center"><strong>4 odd, 4 even: 1&nbsp;pattern</strong></td>
+            <td style="text-align: center" align="center"><strong></strong></td>
+            <td style="text-align: center"><strong></strong></td>
+            <td style="text-align: center"><strong></strong></td>
+          </tr>
+          <tr>
+              <td style="text-align: left"><img srcset="4plus0spots.svg
+                100w" sizes="25px" src="4plus0spots.svg"
+                alt="4plus0spots"></td>
+            <td style="text-align: left"><img srcset="4plus4spots.svg
+                100w" sizes="25px" src="4plus4spots.svg"
+                alt="4plus4spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+<td valign="top" align="center"><strong><br>8 odd, 0&nbsp;even: 4&nbsp;patterns</strong>
+            </td>
+            <td valign="top" align="center"><br><strong>8 odd, 4
+even: 6&nbsp;patterns</strong> (a)</td>
+            <td valign="top" align="center"><br><strong>8 odd, 8
+even: 12&nbsp;patterns</strong> (b)</td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+              <td style="text-align: left"><img src="8plus0spots.svg"
+                srcset="8plus0spots.svg 100w" sizes="25px"
+                alt="8plus0spots"></td>
+            <td style="text-align: left"><img src="8plus4spots.svg"
+                srcset="8plus4spots.svg 100w" sizes="25px"
+                alt="8plus4spots"></td>
+            <td style="text-align: left"><img src="8plus4spots.svg"
+                srcset="8plus8spots.svg 100w" sizes="25px"
+                alt="8plus8spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+<td valign="top" align="center"><br><strong>12 odd, 0&nbsp;even: 5&nbsp;patterns</strong>
+            </td>
+<td valign="top" align="center"><BR>
+<strong>12 odd, 4 even: 10&nbsp;patterns</strong> (a)
+<br>
+            </td>
+<td valign="top" align="center"><br><strong>12 odd, 8 even: 34&nbsp;patterns</strong> (a)
+            </td>
+<td valign="top" align="center"><br><strong>12 odd, 12 even: 29&nbsp;patterns</strong>
+(b, c)
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+             <td style="text-align: left"><img src="12plus0spots.svg"
+                srcset="12plus0spots.svg 100w" sizes="25px"
+                alt="12plus0spots"></td>
+            <td style="text-align: left"><img src="12plus4spots.svg"
+                srcset="12plus4spots.svg 100w" sizes="25px"
+                alt="12plus4spots"></td>
+            <td style="text-align: left"><img src="12plus8spots.svg"
+                srcset="12plus8spots.svg 100w" sizes="25px"
+                alt="12plus8spots"></td>
+            <td style="text-align: left"><img src="12plus12spots.svg"
+                srcset="12plus12spots.svg 100w" sizes="25px"
+                alt="12plus12spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+          <tr>
+    <td valign="top" align="center"><br><strong>16 odd, 0&nbsp;even: 8
+patterns</strong>
+            </td>
+<td valign="top" align="center"><BR>
+<strong>16 odd, 4 even: 13&nbsp;patterns</strong> (a)
+<br>
+            </td>
+<td valign="top" align="center"><br><strong>16 odd, 8 even: 52&nbsp;patterns</strong> (a)
+            </td>
+<td valign="top" align="center"><br><strong>16 odd, 12 even: 79&nbsp;patterns</strong>
+(a, c)
+            </td>
+ <td valign="top" align="center"><br><strong>16 odd, 16 even: 48&nbsp;patterns</strong>
+(b, c, d)
+          </tr>
+                  <tr>
+<td style="text-align: left">
+<img src="16plus0spots.svg"
+ srcset="16plus0spots.svg 100w" sizes="25px"
+                alt="16plus0spots"></td>
+            <td style="text-align: left"><img src="16plus4spots.svg"
+ srcset="16plus4spots.svg 100w" sizes="25px"
+                alt="16plus4spots"></td>
+            <td style="text-align: left"><img src="16plus8spots.svg"
+ srcset="16plus8spots.svg 100w" sizes="25px"
+                alt="16plus8spots"> </td>
+            <td style="text-align: left"><img src="16plus12spots.svg"
+ srcset="16plus12spots.svg 100w" sizes="25px"
+                alt="16plus12spots"></td>
+            <td style="text-align: left"><img src="16plus16spots.svg"
+ srcset="16plus16spots.svg 100w" sizes="25px"
+                alt="16plus16spots"> </td>
+</tr>
+     <tr>
+<td valign="top" align="center"><br><strong>20 odd, 0&nbsp;even: 5&nbsp;patterns</strong>
+            </td>
+<td valign="top" align="center"><BR>
+<strong>20 odd, 4 even: 10&nbsp;patterns</strong> (a)
+<br>
+            </td>
+<td valign="top" align="center"><br><strong>20 odd, 8 even: 34&nbsp;patterns</strong> (a)
+            </td>
+<td valign="top" align="center"><br><strong>20 odd, 12 even: 29&nbsp;patterns</strong>
+(b, c)
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+           <tr>   <td style="text-align: left">
+<img src="20plus0spots.svg"
+ srcset="20plus0spots.svg 100w" sizes="25px" alt="20plus0spots"></td>
+            <td style="text-align: left">
+<img src="20plus4spots.svg"
+ srcset="20plus4spots.svg 100w" sizes="25px" alt="20plus4spots"></td>
+            <td style="text-align: left">
+<img src="20plus8spots.svg"
+ srcset="20plus8spots.svg 100w" sizes="25px" alt="20plus8spots"></td>
+            <td style="text-align: left">
+<img srcset="20plus12spots.svg 100w" sizes="25px"
+src="20plus12spots.svg" alt="20 plus 12 spots"><br>
+            </td>
+            <td style="text-align: left">&nbsp;</td>
+</tr>
+          <tr>
+<td valign="top" align="center"><strong><br>24 odd, 0&nbsp;even: 4&nbsp;patterns</strong>
+            </td>
+            <td valign="top" align="center"><br><strong>24 odd, 4
+even: 6&nbsp;patterns</strong> (a)</td>
+            <td valign="top" align="center"><br><strong>24 odd, 8
+even: 12&nbsp;patterns</strong> (b)</td>
+            <td valign="top"><br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+<td style="text-align: left">
+<img src="24plus0spots.svg"
+ srcset="24plus0spots.svg 100w" sizes="25px"                alt="24plus0spots"></td>
+            <td style="text-align: left"><img src="24plus4spots.svg"
+ srcset="24plus4spots.svg 100w" sizes="25px"                alt="24plus4spots"></td>
+            <td style="text-align: left"><img src="24plus8spots.svg"
+ srcset="24plus8spots.svg 100w" sizes="25px"                alt="24plus8spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+</tr>
+          <tr>
+                <td style="text-align: center"><strong>28 odd, 0&nbsp;even:
+1&nbsp;pattern</strong></td>
+            <td style="text-align: center"><strong>28 odd, 4 even: 1&nbsp;pattern</strong></td>
+            <td style="text-align: center" align="center"><strong></strong></td>
+            <td style="text-align: center"><strong></strong></td>
+            <td style="text-align: center"><strong></strong></td>
+          </tr>
+          <tr>
+  <td style="text-align: left">
+<img src="28plus0spots.svg"
+ srcset="28plus0spots.svg 100w" sizes="25px"
+                alt="28plus0spots"></td>
+             <td style="text-align: left"><img src="28plus4spots.svg"
+ srcset="28plus4spots.svg 100w" sizes="25px"
+                alt="28plus4spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+</tr>
+          <tr>
+                <td style="text-align: center"><strong>32 odd, 0&nbsp;even:
+1&nbsp;pattern</strong></td>
+            <td style="text-align: center"><strong></strong></td>
+            <td style="text-align: center" align="center"><strong></strong></td>
+            <td style="text-align: center"><strong></strong></td>
+            <td style="text-align: center"><strong></strong></td>
+          </tr>
+          <tr>
+  <td style="text-align: left">
+<img src="32plus0spots.svg"
+srcset="32plus0spots.svg 100w" sizes="25px"
+            alt="32plus0spots"></td>
+            <td style="text-align: left">&nbsp;</td>
+           <td style="text-align: left">&nbsp;</td>
+                <td style="text-align: left">&nbsp;</td>
+            <td style="text-align: left">&nbsp;</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
