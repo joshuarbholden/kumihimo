@@ -7,4 +7,4 @@
 \
 \
 \
-![The structure of a Naiki braid](tmaa_a_2202946_uf0001_oc.jpg "The structure of a Naiki braid")
+![The structure of a Naiki braid](https://braidspotting.github.io/tmaa_a_2202946_uf0001_oc.jpg "The structure of a Naiki braid")
