@@ -1,3 +1,5 @@
+<title>Kumihimo</title>
+
 ## Combinatorics and Symmetry of Braids
 - [Changing Spots: Using Combinatorics to Count Japanese Braiding Patterns](https://archive.bridgesmathart.org/2022/bridges2022-327.html)
 - Monsters in the hollow: Counting Naiki braid patterns using de Bruijn’s Monster Theorem
